@@ -104,7 +104,6 @@ video_html = """
 st.markdown(video_html, unsafe_allow_html=True)
 image = Image.open(r'C:\Users\danje\Downloads\brine-low-resolution-logo-color-on-transparent-background.png')
 st.image(image)
-image1 = Image.open(r'C:\Users\danje\Downloads\fishial_id_shot_2.jpg')
 
 components.html(
     """
