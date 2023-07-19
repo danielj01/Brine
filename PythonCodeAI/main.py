@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_lottie import st_lottie
 import torch
 import numpy as np
 import imageio.v3 as iio
