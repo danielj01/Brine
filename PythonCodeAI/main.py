@@ -2,7 +2,6 @@ import streamlit as st
 import torch
 import numpy as np
 import imageio.v3 as iio
-import cv2
 from torchvision.io import read_image
 from torchvision.models import resnet50, ResNet50_Weights
 import torch, torchvision
