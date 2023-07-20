@@ -22,7 +22,7 @@ import os
 import openai
 import re
 import streamlit_extras as components
-openai.api_key = "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"
+openai.api_key = "Input Your API KEY Here"
 messages = [ {"role": "system", "content": "You are a intelligent assistant who is knowledgable in Fishing."} ]
 st.set_page_config(
     page_title="Fish_Tracking",
