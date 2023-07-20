@@ -20,7 +20,7 @@ from torchsummary import summary
 import pandas as pd
 import os
 import openai
-openai.api_key = "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"
+openai.api_key = "Input Your API KEY Here"
 
 messages = [ {"role": "system", "content": "You are a intelligent assistant."} ]
 st.set_page_config(
